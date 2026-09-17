@@ -22,8 +22,8 @@ Laravel and Next.js, and Odoo integrations for Uzbekistan's e-document ecosystem
 
 ## Toolbox
 
-**Frontend:** TypeScript · React · Next.js · Tailwind CSS · TanStack Query · Motion
-**Backend:** PHP · Laravel · PostgreSQL · Python · Odoo
-**Quality & DevOps:** Playwright · PHPUnit · GitHub Actions · Docker · Netlify · Render · Cloudflare
+- **Frontend:** TypeScript · React · Next.js · Tailwind CSS · TanStack Query · Motion
+- **Backend:** PHP · Laravel · PostgreSQL · Python · Odoo
+- **Quality & DevOps:** Playwright · PHPUnit · GitHub Actions · Docker · Netlify · Render · Cloudflare
 
 🗣️ Uzbek · Russian · English
